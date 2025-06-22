@@ -1,0 +1,8 @@
+[package]
+name = "student_report_card"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+genpdf = { version = "0.2.0-alpha.1" }
+
